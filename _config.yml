@@ -1,28 +1,40 @@
-name: christopherwiitala
 favicon: null
-layout_spectrum: 0.2566
-typography_spectrum: 0.52634
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-21311057-1
-  facebook: null
-  twitter: null
+name: christopherwiitala
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
   brandColors:
     - '#000000'
     - '#b1ca01'
     - '#dff926'
     - '#524d39'
     - '#239c07'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.0625
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.52634
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2566
+analytics:
+  twitter: null
+  google: UA-21311057-1
+  facebook: null
