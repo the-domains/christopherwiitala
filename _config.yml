@@ -1,4 +1,4 @@
-name: christopherwiitala
+name: christopher wiitala
 favicon: null
 layout_spectrum: 0.2566
 typography_spectrum: 0.52634
@@ -35,7 +35,7 @@ color:
     - '#524d39'
     - '#239c07'
   brandStrength: 0
-  lightness: 1
-  saturation: 1
+  lightness: 0
+  saturation: 0.25
   rhythmicContrast: 0
 purpose: []
