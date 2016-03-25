@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[christopher wiitala]]></title>
         <description><![CDATA[christopher wiitala]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christopherwiitala/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 23:10:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 23:12:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christopherwiitala/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f2d812d-43cb-475a-8b6f-7149295a480c.jpg">]]></description>
+            <link>https://thegrid.ai/christopherwiitala/my-name-is-christopher-and-i-live-in-chicago/index.html</link>
+            <guid isPermaLink="false">eaef0ba3-4d1a-481e-b9c9-73df7e587c0d</guid>
+            <pubDate>Fri, 25 Mar 2016 23:11:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97d31d8-ffad-440a-9467-2754cf5baaa2.jpg">]]></description>
-            <link>undefined3bbeaf38-2eab-49e1-a158-24780ccb7758/index.html</link>
+            <link>https://thegrid.ai/christopherwiitala/3bbeaf38-2eab-49e1-a158-24780ccb7758/index.html</link>
             <guid isPermaLink="false">3bbeaf38-2eab-49e1-a158-24780ccb7758</guid>
             <pubDate>Fri, 25 Mar 2016 23:10:08 GMT</pubDate>
         </item>
