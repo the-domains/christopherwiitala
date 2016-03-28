@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/141089706'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-28T19:59:03.532Z'
+dateModified: '2016-03-28T19:58:19.253Z'
 author:
   - name: Martín Franco Vielma II
     url: 'http://vimeo.com/user5747416'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Outpost Fest - Delta Spirit" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/141089706'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/141089706'
-title: Outpost Fest - Delta Spirit
-datePublished: '2016-03-26T00:34:09.458Z'
-dateModified: '2016-03-26T00:32:16.476Z'
+title: ''
 sourcePath: _posts/2016-03-26-outpost-fest-delta-spirit.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
