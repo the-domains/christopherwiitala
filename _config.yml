@@ -13,9 +13,9 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0
   brandStrength: 0.4872341
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#125688'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-21311057-1
   facebook: null
-name: christopher wiitala
 favicon: null
+name: christopher wiitala
 opengraph:
   image: null
   type: null
