@@ -1,5 +1,8 @@
+name: christopher wiitala
+favicon: null
+layout_spectrum: 0.01252
+typography_spectrum: 0.51285
 title: null
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-21311057-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.4872341
-  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#25272A'
     - '#7B7C7E'
     - '#A9ABAE'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-21311057-1
-  facebook: null
-favicon: null
-name: christopher wiitala
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.51285
-layout_spectrum: 0.01252
+purpose: []
