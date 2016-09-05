@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: UA-21311057-1
   facebook: null
-name: christopher wiitala
 favicon: null
+name: christopher wiitala
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4276596
-layout_spectrum: 1
+layout_spectrum: 0.6
