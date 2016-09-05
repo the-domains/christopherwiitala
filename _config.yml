@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
-  lightness: 0
+  lightness: 1
   brandColors:
     - '#FFFFFF'
     - '#125688'
     - '#25272A'
     - '#7B7C7E'
     - '#A9ABAE'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5787234
 cta:
   bucket: null
   version: null
   domain: null
 favicon: null
-name: christopher wiitala
 analytics:
   twitter: null
   google: UA-21311057-1
   facebook: null
+name: christopher wiitala
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.51285
-layout_spectrum: 0.08723404
+typography_spectrum: 0.4276596
+layout_spectrum: 0.7404255
